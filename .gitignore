@@ -43,3 +43,7 @@ coverage/
 # 项目特定
 .specstory/
 .cursorindexingignore
+
+# 忽略文件
+.gitignore
+.cursorignore
